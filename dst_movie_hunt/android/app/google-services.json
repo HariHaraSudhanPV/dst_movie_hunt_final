@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "804790134247",
+    "project_id": "dstmoviehunt",
+    "storage_bucket": "dstmoviehunt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804790134247:android:567491743e707736d74942",
+        "android_client_info": {
+          "package_name": "com.hariharasudhan_punnaivanam.dst_movie_hunt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc79k7mBUXMG31U1EL9th3zrnGGP8LjPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
